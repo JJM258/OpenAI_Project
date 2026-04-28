@@ -1,4 +1,4 @@
-# OpenAI_Project
+# OpenAI Project
 
 AI Chatbot USING LLMs (Python + Open AI API)
 
